@@ -33,3 +33,5 @@ var linguagens = new List<string>()
 //Criar uma lista de bandas vazia e adicionar suas bandas prediletas em seguida.
 //Utilizar a estrutura 'for' para mostrar todas as suas bandas preferidas, listadas na lista do exercício anterior, no console.
 //Criar um programa que calcula a soma de todos os elementos inteiros em uma lista.
+
+// https://github.com/ArthurOcFernandes/Exerc-cios-C-/tree/curso-1-aula-3
